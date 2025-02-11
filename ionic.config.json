@@ -1,0 +1,8 @@
+{
+  "name": "Ionic Three",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "8f972b2e"
+}
